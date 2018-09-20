@@ -1,10 +1,13 @@
 _repo: Texas-Rocks-and-Minerals-An-Amateur-s-Guide_52839
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Harris, Bill M.
     gutenberg_agent_id: '47074'
     url: http://www.gutenberg.org/2009/agents/47074
+covers:
+- cover_type: archival
+  image_path: 52839-h/images/cover.jpg
 creator:
   author:
     agent_name: Girard, Roselle M.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '47073'
     url: http://www.gutenberg.org/2009/agents/47073
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52839#Texas-Rocks-and-Minerals-An-Amateur-s-Guide
 gutenberg_issued: '2016-08-18'
 gutenberg_type: Text
 identifiers:
